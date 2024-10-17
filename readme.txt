@@ -1,1 +1,1 @@
-hello README
+Nội dung của readme.txt
