@@ -1,0 +1,3 @@
+[submodule "another-repo"]
+	path = another-repo
+	url = git@github.com:ongphatdat/another-repo.git
